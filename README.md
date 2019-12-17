@@ -3,11 +3,14 @@
 
 ## installation
 ```shell
+# DO NOT USE
 npm i -g @feizheng/install-peers
 ```
 
 ## usage
 ```shell
+git clone git@github.com:afeiship/install-peers.git
+npm link
 ```
 
 ## resources

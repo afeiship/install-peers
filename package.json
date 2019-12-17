@@ -1,0 +1,22 @@
+{
+  "name": "@feizheng/install-peers",
+  "version": "1.0.0",
+  "description": "Cli command for install npm peerDependencies.",
+  "homepage": "https://github.com/afeiship/install-peers",
+  "author": {
+    "name": "afeiship",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT",
+  "bin": {
+    "install-peers": "bin/install-peers.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.13.4"
+  },
+  "peerDependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}

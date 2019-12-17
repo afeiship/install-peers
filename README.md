@@ -11,6 +11,8 @@ npm i -g @feizheng/install-peers
 ```shell
 git clone git@github.com:afeiship/install-peers.git
 npm link
+
+# usage: install-peers
 ```
 
 ## resources
